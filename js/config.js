@@ -36,7 +36,7 @@ Avaiable options:
 
 You can add custom backgrounds
 Just make sure it is at webm VP8 format */
-var l_background = "backgrounds/videos/glowingrings.webm";
+var l_background = "backgrounds/videos/4K_Computer_Tech_Loading_Data_Animation_Background.webm";
 
 /*(Image-background only)
 Place one or more images
@@ -77,7 +77,7 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{youtube: "iUCLLbK0ijU", name: "Take Back New York"}
+	{youtube: "KPAS1hqnm4g", name: "Take Back New York"}
 ];
 
 /*Random music order?*/
