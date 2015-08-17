@@ -36,7 +36,7 @@ Avaiable options:
 
 You can add custom backgrounds
 Just make sure it is at webm VP8 format */
-var l_background = "4K_Computer_Tech_Loading_Data_Animation_Background.webm";
+var l_background = "backgrounds/videos/glowingrings.webm";
 
 /*(Image-background only)
 Place one or more images
